@@ -1,6 +1,6 @@
 
 
-<h1>Desenvolvedora</h1>
+<h1>Desenvolvedora web</h1>
 
 <p style="font-size:20px;">Me chamo Luana de Camargo, sou estudante de Análise e Desenvolvimento de Sistemas na Facens e formada em Técnico em Informática para Internet pela ETEC Fernando Prestes.
 Tenho interesse em Desenvolvimento Web e venho desenvolvendo meus conhecimentos em Front-end, Back-end e Banco de Dados.<p>
