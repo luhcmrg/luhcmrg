@@ -30,7 +30,7 @@
 
 ---
 
-<h1> 🤖 Linguagens e Tecnologias</h1>
+<h1> Linguagens e Tecnologias</h1>
 
 <p style="font-size:23px; font-weight:bold;">Front</p>
 <img 
