@@ -27,74 +27,22 @@ Tenho interesse em Desenvolvimento Web e venho desenvolvendo meus conhecimentos 
 <h1> Linguagens e Tecnologias</h1>
 
 <p style="font-size:23px; font-weight:bold;">Front</p>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<br>
-<br>
-<br>
-<p style="font-size:23px; font-weight:bold;">Back</p>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="JAVA"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
+
+<p >
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js" />
+</p>
 
 
-<br/>
-
 <br>
-<p style="font-size:23px; font-weight:bold;">Banco de Dados</p>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+<p style="font-size:23px; font-weight:bold ;">Back</p>
+<p >
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=php,java" />
+</p>
+<p style="font-size:23px; font-weight:bold ;">Banco</p>
+<br>
+<p >
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" />
+</p>
 
-<br/>
-<br/>
 
 
