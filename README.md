@@ -43,6 +43,11 @@ Tenho interesse em Desenvolvimento Web e venho desenvolvendo meus conhecimentos 
 <p >
     <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" />
 </p>
+<p style="font-size:23px; font-weight:bold ;">Versionamento</p>
+<br>
+<p >
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git" />
+</p>
 
 
 
