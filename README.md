@@ -2,7 +2,8 @@
 
 <h1>Desenvolvedora Front End</h1>
 
-<p style="font-size:20px;">Me chamo Luana de Camargo, conclui meu ensino médio técnico na escola "ETEC Fernando Prestes" no curso de informática para Internet. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Facens. Tenho competências em Front-end, Web design e UI/UX.<p>
+<p style="font-size:20px;">Me chamo Luana de Camargo, Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Facens e formada em Técnico em Informática para Internet pela ETEC Fernando Prestes.
+Tenho interesse em Desenvolvimento Web e venho desenvolvendo meus conhecimentos em Front-end, Back-end e Banco de Dados.<p>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/luana-de-camargo-pereira-484730397/">
@@ -80,6 +81,18 @@
 />
 
 
+<br/>
+
+<br>
+<p style="font-size:23px; font-weight:bold;">Banco de Dados</p>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
 
 <br/>
 <br/>
